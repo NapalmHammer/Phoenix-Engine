@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "testicles";
+	std::cout << "help";
 	return 0;
 }
